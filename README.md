@@ -1,6 +1,6 @@
 # README #
 
-This repository hosts the code and data for COMP-598 Fall 2015, Mini Project 1.
+This repository hosts the code and data for COMP-598 Fall 2015, Mini Project 1, by Jian (Ethan) Li, Yann Aublet-Longpré, and Jonathan Campbell.
 
 ### Set up the Eclipse Workspace ###
 
